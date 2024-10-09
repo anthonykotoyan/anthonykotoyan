@@ -2,7 +2,8 @@
 
 - 🏫 Highschooler passionate about **Math**, **Graphics Programming**, and **AI/ML**.
 - 💻 I love using **math** in graphics programming to simulate evolution and complex systems.
-- 🎮 Currently working on a mix of **games** and **graphics engines**.
+- 🎮 Currently working on a evolution based particle life simulation within c++>
+- 📚 Currently working on a math reaserch paper on converging complex polylogorthmic spirals.
 
 ### Repositories:
 - 🖱️ **ClickerIdle**: A Java-based idle game.
